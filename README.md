@@ -1,2 +1,2 @@
 # hello-world
-Testing material for Data Science Cours
+Testing material for Data Science Course
